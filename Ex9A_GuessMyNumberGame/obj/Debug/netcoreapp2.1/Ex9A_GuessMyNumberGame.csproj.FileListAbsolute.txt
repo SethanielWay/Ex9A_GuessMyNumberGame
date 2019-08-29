@@ -1,0 +1,11 @@
+C:\Users\Seth\source\repos\Ex9A_GuessMyNumberGame\Ex9A_GuessMyNumberGame\bin\Debug\netcoreapp2.1\Ex9A_GuessMyNumberGame.deps.json
+C:\Users\Seth\source\repos\Ex9A_GuessMyNumberGame\Ex9A_GuessMyNumberGame\bin\Debug\netcoreapp2.1\Ex9A_GuessMyNumberGame.runtimeconfig.json
+C:\Users\Seth\source\repos\Ex9A_GuessMyNumberGame\Ex9A_GuessMyNumberGame\bin\Debug\netcoreapp2.1\Ex9A_GuessMyNumberGame.runtimeconfig.dev.json
+C:\Users\Seth\source\repos\Ex9A_GuessMyNumberGame\Ex9A_GuessMyNumberGame\bin\Debug\netcoreapp2.1\Ex9A_GuessMyNumberGame.dll
+C:\Users\Seth\source\repos\Ex9A_GuessMyNumberGame\Ex9A_GuessMyNumberGame\bin\Debug\netcoreapp2.1\Ex9A_GuessMyNumberGame.pdb
+C:\Users\Seth\source\repos\Ex9A_GuessMyNumberGame\Ex9A_GuessMyNumberGame\obj\Debug\netcoreapp2.1\Ex9A_GuessMyNumberGame.csprojAssemblyReference.cache
+C:\Users\Seth\source\repos\Ex9A_GuessMyNumberGame\Ex9A_GuessMyNumberGame\obj\Debug\netcoreapp2.1\Ex9A_GuessMyNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\Ex9A_GuessMyNumberGame\Ex9A_GuessMyNumberGame\obj\Debug\netcoreapp2.1\Ex9A_GuessMyNumberGame.AssemblyInfoInputs.cache
+C:\Users\Seth\source\repos\Ex9A_GuessMyNumberGame\Ex9A_GuessMyNumberGame\obj\Debug\netcoreapp2.1\Ex9A_GuessMyNumberGame.AssemblyInfo.cs
+C:\Users\Seth\source\repos\Ex9A_GuessMyNumberGame\Ex9A_GuessMyNumberGame\obj\Debug\netcoreapp2.1\Ex9A_GuessMyNumberGame.dll
+C:\Users\Seth\source\repos\Ex9A_GuessMyNumberGame\Ex9A_GuessMyNumberGame\obj\Debug\netcoreapp2.1\Ex9A_GuessMyNumberGame.pdb
